@@ -1,2 +1,3 @@
 hoi
 ik heb dit toegevoegd lokaal via notepad
+ik pas even iets via github online aan
